@@ -17,3 +17,4 @@ nishub1.10010.com
 opencloud.wostore.cn
 ye.dun.163yun.com
 e.189.cn
+api-e189.21cn.com
