@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX,podcasts.apple.com
 #自带geoip库未识别tiktok地址
 IP-CIDR,61.61.0.0/16
+DOMAIN-SUFFIX,tiktokcdn.com
+
